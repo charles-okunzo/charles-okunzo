@@ -1,9 +1,15 @@
-### Hi there 👋
+<!-- ## Hi there 👋 -->
 
-<h1>I am Charles Okunzo, A Fullstack Developer</h1>
+<h1 align="center">Hi 👋, I'm Charles Okunzo</h1>
+<h3 align="center">Student at Moringa School, Fullstack Developer🌟.</h3>
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=charles-okunzo&label=Profile%20views&color=0e75b6&style=flat"
+    alt="charles-okunzo" /> 
+  </p>
+  
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="charles-okunzo" /></p>
 <!-- ABOUT YOU -->
-**charles-okunzo/charles-okunzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **charles-okunzo/charles-okunzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -17,29 +23,26 @@ Here are some ideas to get you started:
 
 
 
-<!-- MAIN PHRASE SECTION -->
-<!--<span align="center">
-  <span>
-    <h4 align="center">"<em>Si lo puedes imaginar, lo puedes programar</em>"
-      <span align="center">Alejandro Taboada Sanchez</span>
-    </h4>
-</span>-->
 
 <!-- CONNECTION -->
 <hr>      
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3>Connect with me:</h3>
+<p>
   <a href="https://www.linkedin.com/in/charlespeterokunzo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charlespeterokunzo/" height="30" width="40" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+<h3>Languages and Tools:</h3>
+<p> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  </a> <a href="https://www.w3schools.com/css/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
+      width="40" height="40" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
@@ -64,7 +67,7 @@ Here are some ideas to get you started:
 <hr>
 <div style="display: block;">
 <p>
-  <h3 align="center">Stats:</h3>
+  <h3>Stats:</h3>
 <p>
     <a align="left">
       <p><img align="left" 
@@ -87,6 +90,6 @@ Here are some ideas to get you started:
 <br>
 
 -----
-Credits: [Charles Okunzo](https://github.com/JOSUERV99)
+Credits: [Charles Okunzo](https://github.com/charles-okunzo)
 
-Last Edited on: 23/09/2021
+Last Edited on: 25/05/2022
