@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Charles Okunzo</h1>
-<h3 align="center">Student at Moringa School, Fullstack Developer🌟.</h3>
+<h3 align="center">Graduate from Moringa School, Fullstack Developer🌟.</h3>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=charles-okunzo&label=Profile%20views&color=0e75b6&style=flat"
     alt="charles-okunzo" /> 
@@ -15,6 +15,7 @@
 - 🌱 I’m currently learning Python-Django.
 - 👯 I’m looking to collaborate on any project that seek to solve real world problems.
 - 💬 Ask me about Tech, Web development.
+- ⚡ Intrested in Devops and Machine learning.
 - 📫 How to reach me: <a href="mailto:okunzopeter01@gmail.com">okunzopeter01@gmail.com</a>
 - 😄 Pronouns: He,Him
 <!-- - ⚡ Fun fact:  -->
