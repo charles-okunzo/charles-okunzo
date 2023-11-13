@@ -12,7 +12,7 @@
 <!-- **charles-okunzo/charles-okunzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Python-Django.
+- 🌱 I’m currently learning React, NextJs.
 - 👯 I’m looking to collaborate on any project that seek to solve real world problems and better human lives.
 - 💬 Ask me about Tech, Web development.
 - ⚡ Intrested in Devops and Machine learning.
